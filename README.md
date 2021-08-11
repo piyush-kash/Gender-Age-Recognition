@@ -3,7 +3,7 @@ A Python Program to recognize a person's Age-range and Gender using CNN with Caf
 
 The models folder contains the Caffe models which will be used for Detection & Recognition
 
-The notebook file contains comments about the code for easy understanding.
+The notebook file is heavily commented for easy understanding.
 
 Reference Links:
 
